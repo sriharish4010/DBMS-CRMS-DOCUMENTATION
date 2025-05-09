@@ -1,0 +1,18 @@
+<xml>
+<police>
+<police info>
+<police_id>1</police_id>
+<name>Raj Kumar</name>
+<rank>Inspector</rank>
+<station>Chennai</station>
+
+<police_id>2</police_id>
+<name>Anita sharma</name>
+<rank>Sub-Inspector</rank>
+<station>Madurai</station>
+
+<police_id>3</police_id>
+<name>Vikram Singh</name>
+<rank>Constable</rank>
+<station>Coimbatore</station>
+
